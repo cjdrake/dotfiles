@@ -15,7 +15,7 @@
     tool = p4merge
 
 [mergetool "p4merge"]
-    path = /opt/Perforce/p4v-2013.1.611503/bin/p4merge
+    path = /opt/Perforce/p4v-2013.2.661179/bin/p4merge
 
 [alias]
     st = status
