@@ -22,4 +22,5 @@
     ci = commit
     co = checkout
     ls = ls-files
+    rz = clean -dfx
     st = status
