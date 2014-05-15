@@ -13,4 +13,3 @@ alias ....='cd ../../..'
 
 alias cwd=pwd
 
-alias dev-333='source ~/pyve/dev-333/bin/activate'
