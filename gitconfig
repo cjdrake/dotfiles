@@ -15,7 +15,7 @@
     tool = p4merge
 
 [mergetool "p4merge"]
-    path = /opt/Perforce/p4v-2014.1.827578/bin/p4merge
+    path = /opt/Perforce/p4v-2014.2.973065/bin/p4merge
 
 [alias]
     br = branch
