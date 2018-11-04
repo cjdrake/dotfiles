@@ -15,7 +15,7 @@
     tool = p4merge
 
 [mergetool "p4merge"]
-    path = /opt/Perforce/p4v-2017.1.1491634/bin/p4merge
+    path = /opt/Perforce/p4v-2018.3.1719707/bin/p4merge
 
 [alias]
     br = branch
@@ -26,3 +26,5 @@
     rz = clean -dfx
     st = status
 
+[credential "https://source.developers.google.com"]
+    helper = gcloud.sh
